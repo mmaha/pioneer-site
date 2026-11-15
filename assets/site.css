@@ -927,3 +927,118 @@ p {
     color: var(--text);
   }
 }
+
+/* ------------------------------------------------------- timeline facts */
+.facts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--s-06);
+  margin: var(--s-08) 0 0;
+}
+
+.facts div {
+  padding-top: var(--s-05);
+  border-top: 3px solid var(--lime);
+}
+
+.facts dt {
+  font-family: var(--serif);
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  line-height: 1.1;
+  color: var(--ink);
+  font-variant-numeric: lining-nums;
+}
+
+.facts dd {
+  margin: var(--s-02) 0 0;
+  color: var(--muted);
+}
+
+/* -------------------------------------------------------------- sectors */
+h3.label {
+  margin: var(--s-08) 0 var(--s-04);
+}
+
+.sectors {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s-03);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.sectors li {
+  padding: var(--s-02) var(--s-04);
+  border: 1px solid var(--line);
+  font-size: 0.92rem;
+  font-weight: 500;
+}
+
+/* --------------------------------------------------------- jump links */
+.jump {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s-03) var(--s-06);
+  margin: var(--s-07) 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.jump a {
+  color: var(--white);
+  font-weight: 500;
+  text-decoration-color: var(--lime);
+}
+
+.jump a:hover {
+  color: var(--lime);
+}
+
+/* ------------------------------------------------- linked service list */
+.offers a {
+  display: block;
+  color: var(--text);
+  text-decoration: none;
+}
+
+.offers a:hover {
+  color: var(--green-text);
+}
+
+/* ------------------------------------------------------ call to action */
+.cta {
+  padding: var(--s-11) 0;
+  background: var(--green);
+  color: var(--white);
+}
+
+.cta h2 {
+  max-width: 20ch;
+}
+
+.cta .lead {
+  max-width: 56ch;
+  margin-bottom: var(--s-07);
+  color: rgba(255, 255, 255, 0.88);
+}
+
+.cta .button {
+  background: var(--white);
+  color: var(--ink);
+}
+
+.cta .button:hover {
+  background: var(--lime);
+}
+
+.cta .button.ghost {
+  background: transparent;
+  color: var(--white);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.7);
+}
+
+.cta .button.ghost:hover {
+  background: var(--white);
+  color: var(--ink);
+}

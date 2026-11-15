@@ -1,6 +1,6 @@
 _Page: Pioneer Quality Consulting · source: `index.html` · text only._
 
-Pioneer Quality Consulting Inc.
+Pioneer Quality Consulting Inc. · Mississauga, Ontario
 
 # Implementing a management system? Pioneer can help.
 
@@ -19,6 +19,20 @@ Our services (links to: services page) Contact us (links to: contact-us page)
 Pioneer has completed hundreds of ISO 9001 designs and implementations, including the ISO 9001:2015 standard. We use our own Lean Quality Management approach, so everything we do adds value to your operations.
 
 We have a track record of clients being recommended for registration on their first attempt. We guide, facilitate and coach you through every step, from mapping your processes and writing your manual to supporting you through the external audit.
+
+### Sectors we work in
+
+- Manufacturing
+
+- Services
+
+- Pharmaceuticals
+
+- Automotive
+
+- Aerospace
+
+- Not-for-profit
 
 ## What we do
 
@@ -40,19 +54,15 @@ Our certified lead auditors can carry out your internal audits, often at a much 
 
 Read more (links to: services page)
 
-## What we ask of your leadership
-
-Pioneer brings the expertise to develop and implement ISO 9001:2015, but your leadership team will be expected to:
-
-- Assign roles and responsibilities for the quality management system
-
-- Provide resources, and a war room for training, coaching and planning
-
-- Make sure process owners take part in improving their processes
-
-- Support our consultants throughout the ISO project
-
 ## How we work
+
+This is how a typical ISO 9001:2015 project runs, from the first meeting to your certification audit.
+
+6 to 8 weeksTypical development
+
+8 to 10 weeksTypical implementation
+
+3 to 6 monthsRecommended from start to finish
 
 ### Pre-assessment and project plan
 
@@ -78,6 +88,18 @@ We can train your staff as internal auditors, or run the internal audits ourselv
 
 We coach your team on working with the external auditors, with practical strategies that take the stress out of the day. We have a perfect record of successful registration. We guarantee you will pass your first ISO 9001:2015 audit if you follow our plan.
 
+## What we ask of your leadership
+
+Pioneer brings the expertise to develop and implement ISO 9001:2015, but your leadership team will be expected to:
+
+- Assign roles and responsibilities for the quality management system
+
+- Provide resources, and a war room for training, coaching and planning
+
+- Make sure process owners take part in improving their processes
+
+- Support our consultants throughout the ISO project
+
 Clients
 
 ## What our clients say
@@ -101,6 +123,12 @@ Latest
 *[Image: assets/img/banner-iso-14001-2026.jpg]*
 
 *[Image: assets/img/banner-iso-9001-2026.jpg]*
+
+## Planning an ISO certification?
+
+Tell us about your organization and the standard you are working towards, and we will explain how we would approach it.
+
+Email us Contact details (links to: contact-us page)
 
 ---
 

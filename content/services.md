@@ -4,6 +4,12 @@ Services
 
 # Consulting, training and auditing for ISO management systems
 
+- Consulting (links to: home page)
+
+- Training (links to: home page)
+
+- Auditing (links to: home page)
+
 ## Consulting
 
 Our consultants are business process experts with real experience across many sectors, and their focus is helping organizations perform better.
@@ -19,12 +25,6 @@ Because we implement management systems through process improvement, any new sys
 - Upgrading an environmental management system to ISO 14001:2015
 
 - OHSAS 18001:2007 occupational health and safety management system development and implementation
-
-- Internal audit training
-
-- Internal auditing of management systems
-
-- Management system awareness training
 
 ## Training
 
@@ -44,6 +44,18 @@ We train groups in a classroom setting or work with people one-to-one. Our train
 
 Our certified lead auditors can carry out your internal audits, often at a much lower cost than doing them in-house.
 
+- Internal audits of your management system
+
+- Supplier audits
+
+- Pre-certification audits before your certification body visits
+
 Clients can choose to start with internal audit training, then have their own auditors run the internal audits under the supervision of our lead auditors. We find this the most effective way to train auditors and get the audits done. By the following year, your auditors have the skills to run the audits on their own.
 
 We can shape an auditing project around your organization’s needs. Contact the Pioneer team (links to: contact-us page) to talk it through.
+
+## Planning an ISO certification?
+
+Tell us about your organization and the standard you are working towards, and we will explain how we would approach it.
+
+Email us Contact details (links to: contact-us page)

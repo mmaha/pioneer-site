@@ -16,7 +16,7 @@ To provide practical, cost-effective, results-oriented business solutions that h
 
 ## Our approach
 
-Through mentoring and facilitation, we help clients achieve and keep certifications that change the way they work, in industries from manufacturing to IT, distribution to trading, and education to support services. Pioneer has been helping clients achieve excellence across their operations.
+Through mentoring and facilitation, we help clients achieve and keep certifications that change the way they work, in industries from manufacturing to IT, distribution to trading, and education to support services.
 
 We understand the critical issues businesses face when implementing management systems. We use proven tools such as Lean, Six Sigma, business process improvement, the Balanced Scorecard, project management and 5S to streamline processes and simplify implementation. That cuts the cost and effort involved and gives your business a real competitive edge.
 
@@ -24,8 +24,14 @@ Our services
 
 ## What we offer
 
-- Management system consulting, development and implementation
+- Management system consulting, development and implementation (links to: services page)
 
-- Internal and supplier auditing
+- Internal and supplier auditing (links to: services page)
 
-- Management system and internal auditor training
+- Management system and internal auditor training (links to: services page)
+
+## Planning an ISO certification?
+
+Tell us about your organization and the standard you are working towards, and we will explain how we would approach it.
+
+Email us Contact details (links to: contact-us page)

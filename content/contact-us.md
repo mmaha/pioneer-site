@@ -4,7 +4,7 @@ Contact
 
 # Write to us
 
-Send us an email and we will get back to you as soon as we can.
+Send us an email and we will get back to you as soon as we can. It helps to tell us about your organization, the standard you are working towards and your timeline.
 
 Email info@pioneerqualityconsulting.com
 

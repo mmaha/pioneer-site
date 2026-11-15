@@ -33,3 +33,9 @@ To request a copy of any of these documents, contact us (links to: contact-us pa
 - 08A Internal Audit Program
 
 - 08B Internal Audit Report
+
+## Planning an ISO certification?
+
+Tell us about your organization and the standard you are working towards, and we will explain how we would approach it.
+
+Email us Contact details (links to: contact-us page)
