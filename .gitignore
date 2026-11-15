@@ -1,0 +1,3 @@
+# Override global ignores (downloads/, dist/) that would drop site files
+!downloads/
+!dist/
