@@ -4,6 +4,8 @@ Downloads
 
 # Quality management system documents
 
+To request a copy of any of these documents, contact us (links to: contact-us page) .
+
 - Quality Policy
 
 - Scope

@@ -1,10 +1,8 @@
 _Page: About us | Pioneer Quality Consulting · source: `about-us/index.html` · text only._
 
-About us
-
 # About Pioneer
 
-Who we are
+## Who we are
 
 Pioneer Quality Consulting Inc. works with highly qualified, experienced, hands-on consultants in almost every sector, including manufacturing, services, pharmaceuticals, automotive, aerospace and not-for-profit.
 
@@ -12,11 +10,11 @@ We specialize in precision CNC machining, mold making, steel work, construction,
 
 We offer a complete path to certification in ISO 9001, ISO 14001 and OHSAS 18001: consulting, training, and developing and implementing the management system you choose. Once you are certified, we help you maintain the system through mentoring and facilitation, so you stay conformant and keep your certification without fire-fighting nonconformities. That leaves you free to focus on your core business, with ISO certification and best practice giving you a lasting competitive advantage.
 
-Our mission
+## Our mission
 
 To provide practical, cost-effective, results-oriented business solutions that help our clients optimize their efficiency, so they can maximize their profits or achieve their objectives.
 
-How we work
+## Our approach
 
 Through mentoring and facilitation, we help clients achieve and keep certifications that change the way they work, in industries from manufacturing to IT, distribution to trading, and education to support services. Pioneer has been helping clients achieve excellence across their operations.
 

@@ -4,8 +4,6 @@ Services
 
 # Consulting, training and auditing for ISO management systems
 
-Implementing a management system? Pioneer can help.
-
 ## Consulting
 
 Our consultants are business process experts with real experience across many sectors, and their focus is helping organizations perform better.

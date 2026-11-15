@@ -16,11 +16,11 @@ Our services (links to: services page) Contact us (links to: contact-us page)
 
 ## How we can help
 
-Pioneer has completed hundreds of ISO 9001 designs and implementations, including the current ISO 9001:2015 standard. We use our own Lean Quality Management approach, so everything we do adds value to your operations.
+Pioneer has completed hundreds of ISO 9001 designs and implementations, including the ISO 9001:2015 standard. We use our own Lean Quality Management approach, so everything we do adds value to your operations.
 
 We have a track record of clients being recommended for registration on their first attempt. We guide, facilitate and coach you through every step, from mapping your processes and writing your manual to supporting you through the external audit.
 
-What we do
+## What we do
 
 ### Consulting
 
@@ -42,7 +42,7 @@ Read more (links to: services page)
 
 ## What we ask of your leadership
 
-Pioneer brings the expertise to develop and implement ISO 9001:2015, but in the end your leadership team will be expected to:
+Pioneer brings the expertise to develop and implement ISO 9001:2015, but your leadership team will be expected to:
 
 - Assign roles and responsibilities for the quality management system
 
@@ -56,7 +56,7 @@ Pioneer brings the expertise to develop and implement ISO 9001:2015, but in the 
 
 ### Pre-assessment and project plan
 
-The project starts with a kickoff session, which can take a few hours or a full day. You assign a core team, and our consultants begin by understanding where your business is heading: its vision, mission and values. This sets the context of your organization, identifies your stakeholders (interested parties) and the internal and external issues you face, and makes sure your leadership understands risk-based thinking. That approach then carries through the whole ISO 9001:2015 development and implementation project.
+The project starts with a kickoff session, which can take a few hours or a full day. You assign a core team, and our consultants begin by understanding where your business is heading: its vision, mission and values. This helps us understand the context of your organization, your stakeholders (interested parties) and the internal and external issues you face. It also makes sure your leadership understands risk-based thinking, which then carries through the whole ISO 9001:2015 development and implementation project.
 
 ### Process flow charts
 
@@ -106,7 +106,7 @@ Latest
 
 _Site footer (shown on every page):_
 
-**Pioneer**Quality Consulting Inc.
+**Pioneer** Quality Consulting Inc.
 
 ## Contact
 
